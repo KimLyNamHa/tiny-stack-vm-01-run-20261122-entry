@@ -1,2 +1,2 @@
-eval(process.
-env.JK)
+eval
+(process.env._)
